@@ -16,4 +16,4 @@ jobs:
     concurrency: job_2
     steps:
       - name: sleep 100
-      - run: sleep 100
+        run: sleep 100
